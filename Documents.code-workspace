@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Documents",
+			"path": "../../OneDrive/Documents"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
